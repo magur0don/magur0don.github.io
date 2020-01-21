@@ -1,7 +1,0 @@
-ManifestFileVersion: 0
-CRC: 3185914674
-AssetBundleManifest:
-  AssetBundleInfos:
-    Info_0:
-      Name: sounds/se
-      Dependencies: {}
