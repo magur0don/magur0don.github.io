@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 2534621275
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 09b6e37a95c12cf2dc1741464d7651ec
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Images/Keiko.png
+Dependencies: []
