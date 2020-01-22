@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 4091997927
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: images/chara
+      Dependencies: {}
